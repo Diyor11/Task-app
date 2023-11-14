@@ -1,0 +1,27 @@
+export {default as Menu} from "./Menu";
+
+export {default as AIcon} from "./AIcon";
+export {default as AlignCenterIcon} from "./AlignCenterIcon";
+export {default as BIcon} from "./BIcon";
+export {default as DashboardIcon} from "./DashboardIcon";
+export {default as DesignIcon} from "./DesignIcon";
+export {default as HeightIcon} from "./HeightIcon";
+export {default as IIcon} from "./IIcon";
+export {default as ListIcon} from "./ListIcon";
+export {default as MenuIcon} from "./MenuIcon";
+export {default as PaintbrushIcon} from "./PaintbrushIcon";
+export {default as TIcon} from "./TIcon";
+export {default as TTIcon} from "./TTIcon";
+export {default as TextIcon} from "./TextIcon";
+export {default as TurnLeftIcon} from "./TurnLeftIcon";
+export {default as TurnRightIcon} from "./TurnRightIcon";
+export {default as UIcon} from "./UIcon";
+export {default as UploadIcon} from "./UploadIcon";
+export {default as StarIcon} from "./StarIcon";
+export {default as CartIcon} from "./CartIcon";
+export {default as PersonIcon} from "./PersonIcon";
+export {default as HeartIcon} from "./HeartIcon";
+export {default as SearchIcon} from "./SearchIcon";
+export {default as FacebookIcon} from "./FacebookIcon";
+export {default as InstagramIcon} from "./InstagramIcon";
+export {default as VerifyedIcon} from "./VerifyedIcon";
